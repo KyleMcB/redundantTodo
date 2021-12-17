@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/redundantToDo.iml" filepath="$PROJECT_DIR$/.idea/modules/redundantToDo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidApp/redundantToDo.androidApp.iml" filepath="$PROJECT_DIR$/.idea/modules/androidApp/redundantToDo.androidApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/redundantToDo.shared.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/redundantToDo.shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/redundantToDo.shared.androidAndroidTestRelease.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/redundantToDo.shared.androidAndroidTestRelease.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/redundantToDo.shared.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/redundantToDo.shared.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/redundantToDo.shared.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/redundantToDo.shared.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/redundantToDo.shared.iosArm64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/redundantToDo.shared.iosArm64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/redundantToDo.shared.iosArm64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/redundantToDo.shared.iosArm64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/redundantToDo.shared.iosMain.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/redundantToDo.shared.iosMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/redundantToDo.shared.iosTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/redundantToDo.shared.iosTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/redundantToDo.shared.iosX64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/redundantToDo.shared.iosX64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/redundantToDo.shared.iosX64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/redundantToDo.shared.iosX64Test.iml" />
+    </modules>
+  </component>
+</project>
